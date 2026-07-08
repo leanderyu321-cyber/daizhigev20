@@ -1,9 +1,0 @@
-# Elasticsearch 配置
-cluster.name: history_corpus_es
-node.name: node-1
-network.host: 0.0.0.0
-http.port: 9200
-transport.port: 9300
-
-# 日志
-logger.level: INFO

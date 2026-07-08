@@ -4,3 +4,4 @@ filelist.txt
 
 # Python cache
 scripts/__pycache__/
+.DS_Store
